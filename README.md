@@ -34,7 +34,7 @@ Profile
 - Java Programming
 - Web Development
 ## Connect With Me
-- LinkedIn: YOUR_LINKEDIN_PROFILE_URL
+- LinkedIn:https://www.linkedin.com/in/dharshini-p-57a40937a/
 
 ---
 ⭐ Thanks for visiting my profile!
